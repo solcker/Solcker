@@ -1,10 +1,10 @@
 ### Hi, my name is Diego
-##I'm Computer Science and I love the tecnology
+## I'm Computer Science and I love the tecnology
 - 🔭 I'm currently looking for a job
 - 🌱 I'm currently learning Web development and electronic stuff
 - ⚡ Fun fact: I like custom keyboards, videogames, food and music
 
-###Connect with me:
+### Connect with me:
 
 
 
