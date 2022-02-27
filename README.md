@@ -9,7 +9,7 @@
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/diego-alexandre-d%C3%ADaz-aguilera-a940b4ab/#gh-dark-mode-only)
 
 ### Publications:
-📜 I participated in a research work related to neuroinformatics. Click the brain ->[🧠]( [publication] )
+📜 I participated in a research work related to neuroinformatics. Click the brain ->[🧠](https://www.sciencedirect.com/science/article/pii/S1877050922001776?via%3Dihub)
 
 ### Lenguages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -24,6 +24,3 @@
 <img align="left" alt="Flask" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
-
-
-[publication]: https://www.sciencedirect.com/science/article/pii/S1877050922001776?via%3Dihub
