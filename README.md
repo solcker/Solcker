@@ -5,8 +5,8 @@
 - ⚡ Fun fact: I like custom keyboards, videogames, food and music
 
 ### Connect with me:
-(./img/linkedin-light.svg)(https://www.linkedin.com/in/diego-alexandre-d%C3%ADaz-aguilera-a940b4ab/#gh-light-mode-only)
-(./img/linkedin-dark.svg)(https://www.linkedin.com/in/diego-alexandre-d%C3%ADaz-aguilera-a940b4ab/#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/diego-alexandre-d%C3%ADaz-aguilera-a940b4ab/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/diego-alexandre-d%C3%ADaz-aguilera-a940b4ab/#gh-dark-mode-only)
 
 ### Publications:
 📜 I participated in a research work related to neuroinformatics. Click the brain -> [🧠](https://www.sciencedirect.com/science/article/pii/S1877050922001776?via%3Dihub)
