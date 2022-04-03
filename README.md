@@ -7,14 +7,14 @@
 - ⚡ Fun fact: I like custom mechanical keyboards, video games, food and music.
 - ⚡ Dato curioso: me gustan los teclados mecánicos personalizados, los videojuegos, la comida y la música.
 
-### Connect with me:
+### Connect with me/Contáctame:
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/diego-alexandre-d%C3%ADaz-aguilera-a940b4ab/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/diego-alexandre-d%C3%ADaz-aguilera-a940b4ab/#gh-dark-mode-only)
 
-### Publications:
+### Publications/Publicaciones:
 📜 I participated in a research work related to neuroinformatics. Click the brain -> [🧠](https://www.sciencedirect.com/science/article/pii/S1877050922001776?via%3Dihub)
 
-### Lenguages and Tools:
+### Lenguages and Tools/Lenguajes y Herramientas:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
