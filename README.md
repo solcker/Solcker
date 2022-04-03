@@ -1,8 +1,11 @@
 ### Hi, my name is Diego 👋
-## I'm Computer Science and I love the tecnology
-- 🔭 I'm currently looking for a job
-- 🌱 I'm currently learning web development and electronic stuff
-- ⚡ Fun fact: I like custom keyboards, videogames, food and music
+## I'm Computer Science
+- 🔭 I'm currently looking for a job.
+- 🔭 Actualmente estoy buscando un trabajo.
+- 🌱 I am currently learning web development and a little bit of electronics.
+- 🌱 Actualmente estoy aprendiendo desarrollo web y un poco de electrónica.
+- ⚡ Fun fact: I like custom mechanical keyboards, video games, food and music.
+- ⚡ Dato curioso: me gustan los teclados mecánicos personalizados, los videojuegos, la comida y la música.
 
 ### Connect with me:
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/diego-alexandre-d%C3%ADaz-aguilera-a940b4ab/#gh-light-mode-only)
