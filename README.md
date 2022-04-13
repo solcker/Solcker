@@ -13,6 +13,7 @@
 
 ### Publications/Publicaciones:
 📜 I participated in a research work related to neuroinformatics. Click the brain -> [🧠](https://www.sciencedirect.com/science/article/pii/S1877050922001776?via%3Dihub)
+📜 He participado en un trabajo de investigación relacionado con la neuroinformática.
 
 ### Lenguages and Tools/Lenguajes y Herramientas:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
