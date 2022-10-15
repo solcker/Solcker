@@ -1,7 +1,5 @@
 ### Hi, my name is Diego 👋
 ## I'm Computer Science
-- 🔭 I'm currently looking for a job.
-- 🔭 Actualmente estoy buscando un trabajo.
 - 🌱 I am currently learning web development and a little bit of electronics.
 - 🌱 Actualmente estoy aprendiendo desarrollo web y un poco de electrónica.
 - ⚡ Fun fact: I like custom mechanical keyboards, video games, food and music.
