@@ -1,7 +1,7 @@
 ### Hi, my name is Diego 👋
 ## I'm Computer Science
-- 🌱 I am currently working as a backend developer.
-- 🌱 Actualmente estoy trabajando como desarrollador backend.
+- 🌱 I am currently working into personal proyects and open to work.
+- 🌱 Actualmente estoy trabajando en proyectos personales y buscando trabajo.
 - ⚡ Fun fact: I like custom mechanical keyboards, video games and music.
 - ⚡ Dato curioso: me gustan los teclados mecánicos personalizados, los videojuegos y la música.
 
