@@ -1,9 +1,9 @@
 ### Hi, my name is Diego 👋
 ## I'm Computer Science
-- 🌱 I am currently working into personal proyects and open to work.
-- 🌱 Actualmente estoy trabajando en proyectos personales y buscando trabajo.
-- ⚡ Fun fact: I like custom mechanical keyboards, video games and music.
-- ⚡ Dato curioso: me gustan los teclados mecánicos personalizados, los videojuegos y la música.
+- 🌱 I am currently working into personal proyects and into legal tech.
+- 🌱 Actualmente estoy trabajando en proyectos personales y en tecnología jurídica.
+- ⚡ Fun fact: I like custom mechanical keyboards and HIFI stuff.
+- ⚡ Dato curioso: me gustan los teclados mecánicos personalizados y los equipos de alta fidelidad.
 
 ### Connect with me/Contáctame:
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/diego-alexandre-d%C3%ADaz-aguilera-a940b4ab/#gh-light-mode-only)
