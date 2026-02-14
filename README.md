@@ -25,10 +25,9 @@
 <img align="left" alt="Flask" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Django" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Bootstrap" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Laravel" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Terraform" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="PHP" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
 <img align="left" alt="AWS" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Grafana" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" style="padding-right:10px;" />
+
 
