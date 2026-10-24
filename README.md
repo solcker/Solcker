@@ -2,7 +2,7 @@
 
 ## I'm a Computer Scientist
 
-- 🌱 I am currently working on personal projects and in legal tech.
+- 🌱 I am currently working in legal tech.
 - ⚡ Fun fact: I like custom mechanical keyboards and HIFI stuff.
 
 ## Connect with me
