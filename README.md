@@ -18,9 +18,13 @@
 
 ## Publications/Publicaciones:
 
-📜 I participated in a research work related to neuroinformatics. Click the brain -> [🧠](https://www.sciencedirect.com/science/article/pii/S1877050922001776?via%3Dihub)
+🧠 **[Visualization of EEG brain entropy dynamic maps in basal resting state conditions](https://doi.org/10.1016/j.procs.2022.01.176)**<br>
+Hernán A. Díaz M., **Diego Díaz**, Felisa Córdova<br>
+*Procedia Computer Science*, Vol. 199 (2022), pp. 1393–1400 · DOI: [10.1016/j.procs.2022.01.176](https://doi.org/10.1016/j.procs.2022.01.176)
 
-📜 He participado en un trabajo de investigación relacionado con la neuroinformática.
+📜 Research on visualizing the entropic organization of the cerebral cortex from EEG signals recorded in a resting state.
+
+📜 Investigación sobre la visualización de la organización entrópica de la corteza cerebral a partir de señales EEG registradas en estado de reposo.
 
 ## Languages and Tools/Lenguajes y Herramientas:
 
